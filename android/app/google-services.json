@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118011090516",
+    "project_id": "qazmebel1",
+    "storage_bucket": "qazmebel1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118011090516:android:4be646397317e576633fc1",
+        "android_client_info": {
+          "package_name": "com.malimov.qazmebel.qaz_mebel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118011090516-gmepionupgefpftkf4f0lp4mdvs2mbu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGTENZwYZMcRbAcmuFKyNrSfkYP1XKK7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118011090516-gmepionupgefpftkf4f0lp4mdvs2mbu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
